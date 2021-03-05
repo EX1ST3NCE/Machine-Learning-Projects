@@ -16,5 +16,5 @@ https://github.com/EX1ST3NCE/Machine-Learning-Projects.git
 
 ### Results
 
-![alt Production Budget vs Worldwide Gross Graph](https://github.com/EX1ST3NCE/Machine-Learning-Projects/blob/main/01. Movie Revenue Prediction with Linear Regression/results/result1.png?raw=true)
-![alt Production Budget vs Worldwide Gross Graph](https://github.com/EX1ST3NCE/Machine-Learning-Projects/blob/main/01. Movie Revenue Prediction with Linear Regression/results/result2.png?raw=true)
+![alt Production Budget vs Worldwide Gross Graph](https://github.com/EX1ST3NCE/Machine-Learning-Projects/blob/main/01.%20Movie%20Revenue%20Prediction%20with%20Linear%20Regression/results/result1.png?raw=true)
+![alt Production Budget vs Worldwide Gross Graph](https://github.com/EX1ST3NCE/Machine-Learning-Projects/blob/main/01.%20Movie%20Revenue%20Prediction%20with%20Linear%20Regression/results/result2.png?raw=true)
